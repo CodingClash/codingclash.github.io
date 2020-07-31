@@ -92,6 +92,7 @@ h6 {
 	line-height: 18px;
 	text-align:center;
 	position: relative;
+	padding-left: 0;
 }
 .time span {
 	display: inline-block;
@@ -106,7 +107,7 @@ ul.time {
 }
 ul.time li {
     display: inline-block;
-    margin: 0 20px;
+    margin: 0 10px;
     position: relative;
 	font-weight: 400;
 	min-width: 150px;
