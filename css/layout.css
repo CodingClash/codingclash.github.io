@@ -90,7 +90,7 @@ h6 {
 	display: block;
 	font-size: 20px;
 	line-height: 18px;
-	margin: 0;
+	text-align:center;
 	position: relative;
 }
 .time span {
@@ -98,7 +98,7 @@ h6 {
 	font-size: 120px;
 	font-weight: 300;
 	line-height: 120px;
-	margin: 0 0 20px;
+	margin: 10px 0 0;
 }
 ul.time {
     list-style: none outside none;
@@ -109,7 +109,7 @@ ul.time li {
     margin: 0 20px;
     position: relative;
 	font-weight: 400;
-	min-width: 115px;
+	min-width: 150px;
 }
 .down {
 	position: absolute;
