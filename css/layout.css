@@ -102,13 +102,14 @@ h6 {
 }
 ul.time {
     list-style: none outside none;
-    margin: 40px 0;
+	margin: 40px 0;
 }
 ul.time li {
     display: inline-block;
     margin: 0 20px;
     position: relative;
-    font-weight: 400;
+	font-weight: 400;
+	min-width: 115px;
 }
 .down {
 	position: absolute;
