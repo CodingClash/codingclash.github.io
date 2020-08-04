@@ -1,7 +1,7 @@
 
 $(function() {
   var currentDate = new Date();
-  var goalDate = new Date("Aug 14, 2020 12:00:00").getTime();
+  var goalDate = new Date("Aug 10, 2020 00:00:00").getTime();
   $('.time').countdown(goalDate.valueOf(), function(event)
 	{
     $this = $(this);
