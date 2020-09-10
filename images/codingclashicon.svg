@@ -10,8 +10,8 @@
  </g>
  <g>
   <title>Layer 1</title>
-  <ellipse ry="275" rx="275" id="svg_100" cy="300" cx="300" fill-opacity="null" stroke-width="0" stroke="#ffffff" fill="#85a06e"/>
-  <path id="svg_91" d="m420.3595,349.99259l-154.83905,-155.00006l101.97373,0l154.83905,155.00006l-154.83905,154.99993l-101.97373,0l154.83905,-154.99993z" stroke-opacity="null" stroke-width="0" stroke="#7f7f7f" fill="#ffffff"/>
-  <path transform="rotate(-180 225.92683410644534,242.99252319335938) " id="svg_92" d="m252.3595,242.99259l-154.83905,-155.00006l101.97373,0l154.83905,155.00006l-154.83905,154.99993l-101.97373,0l154.83905,-154.99993z" stroke-opacity="null" stroke-width="0" stroke="#7f7f7f" fill="#ffffff"/>
+  <ellipse ry="300" rx="300" id="svg_100" cy="300" cx="300" fill-opacity="null" stroke-width="0" stroke="#ffffff" fill="#85a06e"/>
+  <path stroke="#7f7f7f" transform="rotate(-180 202.9268341064453,230.58436584472656) " id="svg_92" d="m234.91749,230.58445l-187.39705,-187.59191l123.41574,0l187.39705,187.59191l-187.39705,187.59176l-123.41574,0l187.39705,-187.59176z" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <path stroke="#7f7f7f" id="svg_102" d="m435.91749,363.58445l-187.39704,-187.59191l123.41573,0l187.39705,187.59191l-187.39705,187.59175l-123.41573,0l187.39704,-187.59175z" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
  </g>
 </svg>
