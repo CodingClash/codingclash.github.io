@@ -14,7 +14,7 @@ body {
 h1, h2, h3, h4, h5 {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 300;
-	font-size: calc(6rem);
+
 }
 
 h6 {
@@ -57,7 +57,6 @@ h6 {
 	margin: 0;
 	position: relative;
 	width: 100%;	
-    padding: 5% 0 10%;
 }
 .header:after{
 	content: "";
@@ -76,6 +75,8 @@ h6 {
 .logo {
 	text-align: center;
 	width: 100%;
+	margin-top:50vh;
+	transform: translateY(-50%);
 }
 .logo a {
 	display: inline-block;	
